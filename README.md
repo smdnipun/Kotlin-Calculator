@@ -1,3 +1,2 @@
 # Kotlin-Calculator
-This is an functioning calculator android application developed using kotlin language
-
+This is a functioning calculator android application developed using kotlin language
